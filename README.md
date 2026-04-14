@@ -54,28 +54,28 @@ Known for being **adaptable, detail-oriented, and driven by curiosity**, I am al
 
 ## 🏗️ Featured Projects
 
-### ☁️ [AWS CloudFormation Web Server](https://github.com/jyothikavempatapu)
+### ☁️ [AWS CloudFormation Web Server](https://github.com/jyothikavempatapu/AWS-CloudFormation-Web-Server)
 > Infrastructure as Code — EC2 + Nginx + Security Groups on AWS
 
 Authored a full CloudFormation (IaC) template to provision an Ubuntu EC2 instance with Nginx, automated homepage deployment via UserData, and parameterized SSH CIDR access controls. Demonstrates AWS resource references, Security Group design, and CloudFormation Outputs.
 
 ---
 
-### 🌐 [VPC Architecture with Bastion Host](https://github.com/jyothikavempatapu)
+### 🌐 [VPC Architecture with Bastion Host](https://github.com/jyothikavempatapu/VPC-Architecture-with-Bastion-Host)
 > AWS Networking — Two-Subnet VPC with Secure Private Access
 
 Designed and deployed a two-subnet VPC (public + private) with a bastion host on Amazon Linux 2023. Configured SSH key-based tunneling into the private subnet, validating end-to-end VPC connectivity, routing, and network segmentation principles.
 
 ---
 
-### 🐧 [LAMP Stack Deployment on Ubuntu](https://github.com/jyothikavempatapu)
+### 🐧 [LAMP Stack Deployment on Ubuntu](https://github.com/jyothikavempatapu/LAMP-Stack-on-Ubuntu)
 > Linux Server Administration — Apache, MariaDB, PHP
 
 Installed and configured a full LAMP stack on Ubuntu Linux with proper file permissions (chmod/chown), virtual directory structure, and PHP info page validation. Demonstrates hands-on Linux server administration and web stack management.
 
 ---
 
-### 🤖 [Object Detection with AWS Rekognition](https://github.com/jyothikavempatapu)
+### 🤖 [Object Detection with AWS Rekognition](https://github.com/jyothikavempatapu/Object-Detection-with-AWS-Rekognition)
 > Cloud AI / Grad Project — Python + boto3 + AWS Rekognition
 
 Built a Python application using boto3 and AWS Rekognition to detect and localize objects in images, drawing bounding boxes with confidence-scored labels using Pillow. Integrated the `detect_labels` API with custom rendering logic to annotate images across multiple detection categories. Also includes a "Hot Dog / Not Hot Dog" food classifier using Rekognition label detection.
