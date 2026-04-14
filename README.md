@@ -63,6 +63,13 @@ Installed and configured a full LAMP stack on Ubuntu Linux with proper file perm
 
 ---
 
+### 🤖 [Object Detection with AWS Rekognition](https://github.com/jyothikavempatapu)
+> Cloud AI / Grad Project — Python + boto3 + AWS Rekognition
+
+Built a Python application using boto3 and AWS Rekognition to detect and localize objects in images, drawing bounding boxes with confidence-scored labels using Pillow. Integrated the `detect_labels` API with custom rendering logic to annotate images across multiple detection categories. Also includes a "Hot Dog / Not Hot Dog" food classifier using Rekognition label detection.
+
+---
+
 ## 🎓 Certifications
 
 - ☁️ **AWS Academy Cloud Foundations** — Amazon Web Services
