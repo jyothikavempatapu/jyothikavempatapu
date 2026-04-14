@@ -2,8 +2,10 @@
 
 **Cloud Engineer | Cybersecurity | Python | IaC & AWS**
 
-CompTIA **Security+** • **CySA+** • **CCNA** • M.S. Cybersecurity (USF, GPA 3.89)
-*Open to opportunities in Cloud Engineering, Cloud Security, and DevOps.*
+• CompTIA **Security+** • **CySA+** • **CCNA**
+
+• M.S. Cybersecurity (USF, GPA 3.89)
+*Open to opportunities in Cloud Engineering, Cloud Security, CyberSecurity and DevOps.*
 
 ---
 
