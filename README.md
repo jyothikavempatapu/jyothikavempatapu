@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Jyothika Vempatapu
 
 **Cloud Engineer | Cybersecurity | Python | AI/ML | IaC & AWS**
-CompTIA **Security+** • **CySA+** • **CCNA** • M.S. Cybersecurity (USF, GPA 3.89)
-*Open to opportunities in Cloud Engineering, Cloud Security, and DevOps.*
+
+• CompTIA **Security+** • **CySA+** • **CCNA** • M.S. Cybersecurity (USF, GPA 3.89)
+
+*Open to opportunities in Cloud Engineering, Cloud Security, CyberSecurity and DevOps.*
 
 ---
 
