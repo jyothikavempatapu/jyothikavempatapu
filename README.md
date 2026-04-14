@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Jyothika Vempatapu
 
-**Cloud Engineer | Cybersecurity | Python | IaC & AWS**
-
-• CompTIA **Security+** • **CySA+** • **CCNA**
-
-• M.S. Cybersecurity (USF, GPA 3.89)
-*Open to opportunities in Cloud Engineering, Cloud Security, CyberSecurity and DevOps.*
+**Cloud Engineer | Cybersecurity | Python | AI/ML | IaC & AWS**
+CompTIA **Security+** • **CySA+** • **CCNA** • M.S. Cybersecurity (USF, GPA 3.89)
+*Open to opportunities in Cloud Engineering, Cloud Security, and DevOps.*
 
 ---
 
@@ -35,9 +32,17 @@ Known for being **adaptable, detail-oriented, and driven by curiosity**, I am al
 
 **Networking:** TCP/IP, VPCs, Subnets, DNS, Load Balancers, Firewalls, SSH, CCNA
 
-**Programming & Scripting:** Python (boto3, Pandas, NumPy, Matplotlib), Java, C, C++, PL/SQL, Shell Scripting, PHP, HTML, CSS, SQL
+**Programming & Scripting:** Python (boto3), Java, C, C++, PL/SQL, Shell Scripting, PHP, HTML, CSS, SQL
 
 **Frameworks & Libraries:** Spring Boot, React, Flask, RESTful API Design
+
+**AI/ML & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
+
+**ML Topics:** Natural Language Processing (NLP), Computer Vision, Image Processing, ResNet-50, Object Detection
+
+**ML Tools:** Jupyter Notebook, Google Colab, MLflow
+
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Keras, Computer Vision (AWS Rekognition), Pandas, NumPy, Matplotlib
 
 **Operating Systems:** Linux (Ubuntu, Amazon Linux, Kali), Windows Server
 
@@ -103,10 +108,10 @@ Velagapudi Ramakrishna Siddhartha Engineering College — India
 ## 📚 Publications
 
 - 📄 **Risk Prediction Near Dams of Krishna River Using GIS and Real Time Flooding Data**
-  *Springer Scopus *
+  *Springer Scopus — LNNS Vol 615, pp 533–546 (2023)*
 
 - 📄 **Air Pollution Detection using ResNet-50**
-  *IEEE — International Conference on Environmental Science & Computer Science *
+  *IEEE — International Conference on Environmental Science & Computer Science (Feb 2023)*
 
 ---
 
