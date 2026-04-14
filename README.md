@@ -1,73 +1,106 @@
-# 👋 Hi, I’m Jyothika Vempatapu  
+# 👋 Hi, I'm Jyothika Vempatapu
 
-**Cybersecurity & Cloud Security | Python | AI/ML Enthusiast**  
-CompTIA **Security+** • **CySA+** • M.S. Cybersecurity (USF, GPA 3.89)  
-*Open to opportunities in Security, Cloud, and Software Engineering.*  
-
----
-
-## 👩‍💻 About Me  
-
-I have a strong foundation in **Python, Java, SQL, and cloud computing**.  
-My journey so far includes:  
-- 🔐 Building **security automation tools**  
-- 🤖 Developing **machine learning models**  
-- ☁️ Creating **cloud-based applications**  
-
-I enjoy exploring the intersection of **cybersecurity, cloud, and AI/ML**.  
-Known for being **adaptable, collaborative, and driven by curiosity**, I am always looking for opportunities to **expand my expertise** and apply it to solving real-world challenges.  
+**Cloud Engineer | Cybersecurity | Python | IaC & AWS**
+CompTIA **Security+** • **CySA+** • **CCNA** • M.S. Cybersecurity (USF, GPA 3.89)
+*Open to opportunities in Cloud Engineering, Cloud Security, and DevOps.*
 
 ---
 
-## 🛠 Skills  
+## 👩‍💻 About Me
 
-**Programming & Scripting:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), Java, SQL, Bash/Shell, JavaScript, HTML, R, C, C++  
+I have a strong foundation in **AWS, cloud infrastructure, cybersecurity, and Python scripting**.
+My journey so far includes:
 
-**Cybersecurity & Cloud:** SOC Monitoring, Vulnerability Assessment, Incident Response, Threat Intelligence (CTI), SIEM (Splunk, Wireshark)  
-AWS (IAM, S3, Lambda, EC2, VPC, Rekognition), Microsoft Azure, Google Cloud  
+- ☁️ Deploying and managing **cloud infrastructure on AWS** (EC2, IAM, VPC, CloudFormation)
+- 🔐 Designing **secure cloud architectures** with IAM, security groups, and network segmentation
+- 🛠️ Building **Infrastructure as Code** pipelines with CloudFormation
+- 🐧 Administering **Linux servers** and automating operations with Python and Shell scripting
+- 🔬 Publishing **peer-reviewed research** in environmental AI and geospatial risk prediction
 
-**Data Science & Analysis:** Machine Learning, TensorFlow, Statistical Modeling, Data Visualization (Tableau, Power BI, Excel)  
-
-**Data Engineering:** Spark, Apache Airflow, Databricks, Snowflake, Hadoop, Apache Kafka  
-
-**Frameworks & Libraries:** Spring Boot, Spring MVC, Flask, RESTful API Design  
-
-**Containerization & Orchestration:** Docker, Kubernetes  
-
-**CI/CD & Automation:** GitHub, GitHub Actions, Jenkins, Ansible  
-
-**Databases:** MySQL, PostgreSQL, MSSQL, NoSQL  
-
-**Operating Systems & Tools:** Linux (Kali/Ubuntu), Windows, Splunk  
+I enjoy exploring the intersection of **cloud infrastructure, security, and automation**.
+Known for being **adaptable, detail-oriented, and driven by curiosity**, I am always looking for opportunities to **expand my expertise** and apply it to solving real-world challenges.
 
 ---
 
-## 🎓 Certifications  
+## 🛠 Skills
 
-- CompTIA Security+ (Issued Mar 2025)  
-- CompTIA Cybersecurity Analyst (CySA+) (Issued May 2025)  
-- Cisco Certified Network Associate Security (CCNA Security)  
-- NDG Linux Essentials Certification  
-- Cisco: Introduction to Cybersecurity, Introduction to IoT, Programming Essentials in C/C++  
-- Coursera: AI For Everybody | Databases and SQL with Python | Programming for Everybody (Python)  
+**Cloud Platforms:** AWS (EC2, IAM, S3, VPC, CloudFormation, Security Groups, CloudWatch), Microsoft Azure
 
----
+**Infrastructure & DevOps:** Infrastructure as Code (CloudFormation, Terraform), Docker, Kubernetes (familiar), Git, GitHub Actions, CI/CD
 
-## 🎓 Education  
+**Security:** IAM & Identity Management, Cloud Security, Network Security, VPC Architecture, Bastion Hosts, CompTIA Security+, CySA+
 
-**Master of Science (M.S.) in Cybersecurity**  
-University of South Florida — Tampa, FL, USA  
-*Graduated May 2025 | GPA: 3.89/4.0*  
+**Networking:** TCP/IP, VPCs, Subnets, DNS, Load Balancers, Firewalls, SSH, CCNA
 
-**B.Tech in Computer Science & Engineering**  
-VR Siddhartha Engineering College — India  
-*Graduated May 2023*  
+**Programming & Scripting:** Python (boto3), PL/SQL, Shell Scripting, PHP, SQL
+
+**Operating Systems:** Linux (Ubuntu, Amazon Linux, Kali), Windows Server
+
+**Databases:** MySQL, MariaDB, PostgreSQL, Relational Databases (PL/SQL)
 
 ---
 
-## 📫 Connect With Me  
+## 🏗️ Featured Projects
 
-- 📧 Email: jyothika.vempatapu@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/jyothikavempatapu](https://linkedin.com/in/jyothikavempatapu)  
-- 🐙 GitHub: [github.com/jyothikavempatapu](https://github.com/jyothikavempatapu)  
-- 📍 Location: Tampa, FL — Open to Relocation  
+### ☁️ [AWS CloudFormation Web Server](https://github.com/jyothikavempatapu)
+> Infrastructure as Code — EC2 + Nginx + Security Groups on AWS
+
+Authored a full CloudFormation (IaC) template to provision an Ubuntu EC2 instance with Nginx, automated homepage deployment via UserData, and parameterized SSH CIDR access controls. Demonstrates AWS resource references, Security Group design, and CloudFormation Outputs.
+
+---
+
+### 🌐 [VPC Architecture with Bastion Host](https://github.com/jyothikavempatapu)
+> AWS Networking — Two-Subnet VPC with Secure Private Access
+
+Designed and deployed a two-subnet VPC (public + private) with a bastion host on Amazon Linux 2023. Configured SSH key-based tunneling into the private subnet, validating end-to-end VPC connectivity, routing, and network segmentation principles.
+
+---
+
+### 🐧 [LAMP Stack Deployment on Ubuntu](https://github.com/jyothikavempatapu)
+> Linux Server Administration — Apache, MariaDB, PHP
+
+Installed and configured a full LAMP stack on Ubuntu Linux with proper file permissions (chmod/chown), virtual directory structure, and PHP info page validation. Demonstrates hands-on Linux server administration and web stack management.
+
+---
+
+## 🎓 Certifications
+
+- ☁️ **AWS Academy Cloud Foundations** — Amazon Web Services
+- 🔐 **CompTIA Security+** (Issued Mar 2025)
+- 🔍 **CompTIA CySA+** — Cybersecurity Analyst (Issued May 2025)
+- 🌐 **CCNA** — Cisco Certified Network Associate Security
+- 🐧 **NDG Linux Essentials** — Cisco Networking Academy
+- 🐍 **PCAP** — Python Certified Associate Programmer
+- 📊 **Databases & SQL for Data Science with Python** — Coursera
+- 🤖 **AI For Everybody** — Coursera
+
+---
+
+## 🎓 Education
+
+**Master of Science (M.S.) in Cybersecurity**
+University of South Florida — Tampa, FL, USA
+*Graduated May 2025 | GPA: 3.89/4.0*
+
+**B.Tech in Computer Science & Engineering**
+Velagapudi Ramakrishna Siddhartha Engineering College — India
+*Graduated May 2023*
+
+---
+
+## 📚 Publications
+
+- 📄 **Risk Prediction Near Dams of Krishna River Using GIS and Real Time Flooding Data**
+  *Springer Scopus — LNNS Vol 615, pp 533–546 (2023)*
+
+- 📄 **Air Pollution Detection using ResNet-50**
+  *IEEE — International Conference on Environmental Science & Computer Science (Feb 2023)*
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: jyothika27.v@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/jyothika--v](https://linkedin.com/in/jyothika--v)
+- 🐙 GitHub: [github.com/jyothikavempatapu](https://github.com/jyothikavempatapu)
+- 📍 Location: Tampa, FL — Open to Relocation
