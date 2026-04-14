@@ -32,7 +32,9 @@ Known for being **adaptable, detail-oriented, and driven by curiosity**, I am al
 
 **Networking:** TCP/IP, VPCs, Subnets, DNS, Load Balancers, Firewalls, SSH, CCNA
 
-**Programming & Scripting:** Python (boto3), PL/SQL, Shell Scripting, PHP, SQL
+**Programming & Scripting:** Python (boto3, Pandas, NumPy, Matplotlib), Java, C, C++, PL/SQL, Shell Scripting, PHP, HTML, CSS, SQL
+
+**Frameworks & Libraries:** Spring Boot, React, Flask, RESTful API Design
 
 **Operating Systems:** Linux (Ubuntu, Amazon Linux, Kali), Windows Server
 
@@ -98,10 +100,10 @@ Velagapudi Ramakrishna Siddhartha Engineering College — India
 ## 📚 Publications
 
 - 📄 **Risk Prediction Near Dams of Krishna River Using GIS and Real Time Flooding Data**
-  *Springer Scopus — LNNS Vol 615, pp 533–546 (2023)*
+  *Springer Scopus *
 
 - 📄 **Air Pollution Detection using ResNet-50**
-  *IEEE — International Conference on Environmental Science & Computer Science (Feb 2023)*
+  *IEEE — International Conference on Environmental Science & Computer Science *
 
 ---
 
